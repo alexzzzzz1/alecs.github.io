@@ -1,1 +1,39 @@
+body{
+    margin: 0;
+    }
+    .header{
+      
+        
 
+    }
+    .logo{
+        position:absolute;
+        height:46px;
+        margin-left:40px;
+        top:17px;
+       
+
+    }
+    .menu{
+        flex-direction: row;
+        display: flex;
+        height:80px;
+        width: 1221px;
+        left:140px;
+        flex-wrap: nowrap;
+        margin:0;
+        justify-content:space-evenly;
+        padding-top:20px ;
+        align-items:center;
+         border:1px solid black;
+
+
+    }
+    .menu-elements{
+         text-decoration:none;
+         font-family: 'inter';
+         font-size:14px;
+         font-style:normal;
+         color: black;
+        
+    }
